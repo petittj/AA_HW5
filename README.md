@@ -7,7 +7,7 @@
  <br>
  Added:<br>
  1. User Name to be cared throughout<br>
- 2. User score and highScore
- 3. Speed adjustment
- 4. Number of lives and counted rounds
+ 2. User score and highScore<br>
+ 3. Speed adjustment<br>
+ 4. Number of lives and counted rounds<br></body>
  
